@@ -1,0 +1,5 @@
+{
+  "name": "Smart Study Planner",
+  "description": "Generate personalized study schedules and adjust them dynamically based on your syllabus and constraints.",
+  "requestFramePermissions": []
+}
